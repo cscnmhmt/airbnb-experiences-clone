@@ -13,7 +13,7 @@ Airbnb experiences page clone using React components and props. Built with Vite,
 
 ```sh
 git clone https://github.com/cscnmhmt/airbnb-experience-clone.git
-cd profile-card
+cd airbnb-experience-clone
 ```
 
 2. Install the dependencies:
